@@ -1,0 +1,1 @@
+This is a simple HTML project to learn the basics of HTML.
